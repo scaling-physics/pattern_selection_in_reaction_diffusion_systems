@@ -1,6 +1,6 @@
 # Pattern Selection in Reaction-Diffusion Systems
 
-![GitHub](https://img.shields.io/github/license/scaling-physics/pattern_selection_in_reaction_diffusion_systems)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/scaling-physics/pattern_selection_in_reaction_diffusion_systems)
 
 ## Introduction
