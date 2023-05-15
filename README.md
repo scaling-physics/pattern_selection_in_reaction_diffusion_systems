@@ -17,5 +17,14 @@ To use this project, follow these steps:
    ```shell
    git clone https://github.com/scaling-physics/pattern_selection_in_reaction_diffusion_systems.git
 
+
+Feel free to modify the content according to the specific details and requirements of your project.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). You are free to modify, distribute, and use the code for your own purposes. Please see the [LICENSE](LICENSE) file for more details.
+
+
 ## The publication: 
  Subramanian, S., & Murray, S. M. (2021). Pattern selection in reaction diffusion systems. Physical Review E, 103(1), 1–12. https://doi.org/10.1103/PhysRevE.103.012215.
+
